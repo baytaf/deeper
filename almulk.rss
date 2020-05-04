@@ -1,0 +1,70 @@
+<rss atom="http://www.w3.org/2005/Atom" itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Tafseer Deeper Look Al-Mulk</title>
+        <author>NAK</author>
+        <description>Tafseer Deeper Look Al-Mulk</description>
+        <link>bayyinahtv.com</link>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 04 May 2020 21:35:33 BST</lastBuildDate>
+        <pubDate>Mon, 04 May 2020 21:35:33 BST</pubDate>
+        <image>
+            <url>http://podcast.bayyinah.com/wp-content/uploads/logo_redbox2.png</url>
+            <title>Tafseer Deeper Look Al-Mulk</title>
+            <link>bayyinahtv.com</link>
+        </image>
+        <item>
+            <description>01. Al-Mulk - A Deeper Look&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a
+                href="https://www.bayyinahtv.com/video/3829 "&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <title>01. Al-Mulk - A Deeper Look</title>
+            <pubDate>Mon, 04 May 2020 21:35:34 BST</pubDate>
+            <enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/3829.mp3"/>
+            <guid>01. Al-Mulk - A Deeper Look</guid>
+        </item>
+        <item>
+            <description>02. Al-Mulk - A Deeper Look&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a
+                href="https://www.bayyinahtv.com/video/3824 "&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <title>02. Al-Mulk - A Deeper Look</title>
+            <pubDate>Mon, 04 May 2020 21:35:35 BST</pubDate>
+            <enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/3824.mp3"/>
+            <guid>02. Al-Mulk - A Deeper Look</guid>
+        </item>
+        <item>
+            <description>03. Al-Mulk - A Deeper Look&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a
+                href="https://www.bayyinahtv.com/video/3820 "&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <title>03. Al-Mulk - A Deeper Look</title>
+            <pubDate>Mon, 04 May 2020 21:35:36 BST</pubDate>
+            <enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/3820.mp3"/>
+            <guid>03. Al-Mulk - A Deeper Look</guid>
+        </item>
+        <item>
+            <description>04. Al-Mulk - A Deeper Look&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a
+                href="https://www.bayyinahtv.com/video/3818 "&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <title>04. Al-Mulk - A Deeper Look</title>
+            <pubDate>Mon, 04 May 2020 21:35:37 BST</pubDate>
+            <enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/3818.mp3"/>
+            <guid>04. Al-Mulk - A Deeper Look</guid>
+        </item>
+        <item>
+            <description>05. Al-Mulk - A Deeper Look&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a
+                href="https://www.bayyinahtv.com/video/3815 "&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <title>05. Al-Mulk - A Deeper Look</title>
+            <pubDate>Mon, 04 May 2020 21:35:38 BST</pubDate>
+            <enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/3815.mp3"/>
+            <guid>05. Al-Mulk - A Deeper Look</guid>
+        </item>
+        <item>
+            <description>06. Al-Mulk - A Deeper Look&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a
+                href="https://www.bayyinahtv.com/video/3812 "&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <title>06. Al-Mulk - A Deeper Look</title>
+            <pubDate>Mon, 04 May 2020 21:35:39 BST</pubDate>
+            <enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/3812.mp3"/>
+            <guid>06. Al-Mulk - A Deeper Look</guid>
+        </item>
+    </channel>
+</rss>
